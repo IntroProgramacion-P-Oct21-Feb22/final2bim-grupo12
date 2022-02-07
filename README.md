@@ -1,6 +1,6 @@
 # 2 Bimestre 
 ## Proyecto Python
-
+### Integrantes: Jeremy Fabricio Jaramillo Peña
 ***
 
 ### Problemática a resolver
